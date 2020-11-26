@@ -69,13 +69,7 @@ body {
 
   color: #212121;
 }
-.navigate_page_portfolio:hover,
-.navigate_page_portfolio:focus {
-  color: #ffffff;
-  background: #2196f3;
-  border-radius: 4px;
-  padding: 19px 44.5px;
-}
+
 .portfolio_url_text {
   font-family: "Roboto", sans-serif;
   font-style: normal;
@@ -105,4 +99,8 @@ body {
 }
 .nav_tel_mail {
   color: #757575;
+}
+.navigate_page {
+  display: flex;
+  justify-content: center;
 }
