@@ -125,6 +125,7 @@ body {
   font-weight: normal;
   font-size: 14px;
   letter-spacing: 0.03em;
+  color: #757575;
 }
 .maps_href {
   font-family: "Roboto", sans-serif;
@@ -136,4 +137,17 @@ body {
 }
 .nav_tel_mail {
   color: #757575;
+}
+.footer {
+  background: #2f303a;
+  height: 252px;
+}
+.nav_bar_item_icon {
+  color: #ffffff;
+}
+.href_nav_color {
+  color: #9f9fa3;
+}
+.maps_href_color {
+  color: #ffffff;
 }
